@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 <!--
-**SXNTYACEROA104527/SXNTYACEROA104527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SXNTYACEROA104527/SXNTYACEROA104527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+### Where to find me:
+
+- [twitter]()
+- [Instagram]()
+- [Linkedin]()
+- [Torre]()
+
+
 
 Here are some ideas to get you started:
 
