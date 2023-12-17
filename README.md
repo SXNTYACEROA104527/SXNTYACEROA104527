@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks, new programming lenguages and courses.**
 
-- 👯 I’m looking to collaborate on **SociaLab**
-
 - 💬 Ask me about **Figma, JavaScript, React, Python and CSS**
 
 - 📫 How to reach me **sxntixgoaceroavellaneda457@gmail.com**
